@@ -30,4 +30,4 @@
 - HTML
 - CSS
 
-Además, se incluyó **Flaticon** para incorporar iconos.
+Además, se incluyeron **Google Fonts** para personalizar la fuente y **Flaticon** para incorporar iconos.
